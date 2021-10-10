@@ -1,3 +1,3 @@
 <?php
-print "";
+print "This is test php site";
 ?>
